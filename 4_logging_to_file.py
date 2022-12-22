@@ -25,6 +25,8 @@ if __name__ == '__main__':
     parser.add_argument('--info', type=str, help='add some info', required=False, default='default message')
 
     args = parser.parse_args()
-
+    
+    #run
+    #sdohfiaosgh
     go(args)
 
